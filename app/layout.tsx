@@ -10,8 +10,8 @@ const _inter = Inter({ subsets: ["latin"] })
 const _jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SMAS - University Timetable Management",
-  description: "Professional timetable management system for students, teachers, and administrators.",
+  title: "SMAS - Smart Multi-Agent Scheduler",
+  description: "Smart Scheduling system for students, teachers, and administrators.",
 }
 
 export const viewport: Viewport = {

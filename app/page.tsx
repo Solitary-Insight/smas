@@ -74,7 +74,7 @@ function LoginPage() {
             </div>
             <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-white">SMAS</h1>
           </div>
-          <p className="text-base text-slate-400 mb-2">University Timetable Management System</p>
+          <p className="text-base text-slate-400 mb-2">Smart Multi-Agent Scheduler</p>
           <p className="text-sm text-slate-500">Select your role below to access the dashboard</p>
         </div>
 
