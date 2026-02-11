@@ -7,34 +7,34 @@ Academic scheduling is often plagued by overlapping time slots, limited room ava
 The Solution
 
 SMAS leverages Multi-Agent Systems (MAS) to represent different stakeholders (students, faculty, facilities) as digital agents. These agents negotiate intelligently to create a balanced, flexible, and conflict-free schedule.
- Key Features
+** Key Features
+**
+ AI-Powered Optimization: Uses smart negotiation and scheduling algorithms to find the best possible time-resource fit.
 
-    AI-Powered Optimization: Uses smart negotiation and scheduling algorithms to find the best possible time-resource fit.
+ Real-Time Conflict Resolution: Automatically detects and fixes scheduling overlaps as they happen.
 
-    Real-Time Conflict Resolution: Automatically detects and fixes scheduling overlaps as they happen.
+ Live Updates: Instantly pushes changes to all stakeholders to ensure everyone is on the same page.
 
-    Live Updates: Instantly pushes changes to all stakeholders to ensure everyone is on the same page.
+ Resource Management: Wisely allocates classrooms, labs, and equipment to prevent underutilization.
 
-    Resource Management: Wisely allocates classrooms, labs, and equipment to prevent underutilization.
+ ser-Centric Design: A clean, intuitive interface tailored for the needs of university administration and students alike.
 
-    User-Centric Design: A clean, intuitive interface tailored for the needs of university administration and students alike.
+** Technology Stack
+**
+Core: Multi-Agent Systems (MAS) & Artificial Intelligence
 
- Technology Stack
-
-    Core: Multi-Agent Systems (MAS) & Artificial Intelligence
-
-    Focus: Real-time synchronization and Resource Optimization
+Focus: Real-time synchronization and Resource Optimization
 
 Mnemonic for GitHub (To remember your pitch)
 
-S.M.A.R.T.
+**S.M.A.R.T.
+**
+  Schedules automatically.
 
-    Schedules automatically.
+  Manages resources.
 
-    Manages resources.
+  Agents negotiate.
 
-    Agents negotiate.
+  Real-time updates.
 
-    Real-time updates.
-
-    Tailored for Universities.
+  Tailored for Universities.
